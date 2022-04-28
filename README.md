@@ -1,12 +1,12 @@
 # Pokemon React App
 
-# 🛠️ Technologies\
+# 🛠️ Technologies
   .React
 <br>
   .Poke Api
 <br>
 
-# 🚀 Installation\
+# 🚀 Installation
   $ git clone https://github.com/viniciuspasquantonio/pokedex-reac.git \
   $ cd react-todolist \
   $ npm install \
